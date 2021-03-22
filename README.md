@@ -5,9 +5,9 @@
 
 - Hi, I am currently working on [Beerpedia](https://github.com/SuzukiRyuichiro/Beerpedia)
 
-- 👨‍💻 All of my projects are available at [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
+- 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
-- 🌱 I’m currently learning (Software Engineering) **React/Swift/Further into Rails**
+- 🌱 I’m currently learning **React/Swift/Further into Rails**.
 
 - 💻 I'm also interested in hardware level computer science and currently studying the course called "NAND to Tetris"
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ryuichiro-suzuki-scooter" height="30" width="40" /></a>
+<span style="color: blue;"><a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616399784~hmac=832dcfab417886ddb2b25db5bdadc78a" alt="Linkedin logo" height="30" width="40" /></a></span>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
