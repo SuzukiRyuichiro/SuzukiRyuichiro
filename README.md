@@ -15,10 +15,7 @@
 
 - 📄 Here's my CV [🔗](https://drive.google.com/file/d/1SEA3QYDMAWH8Cfx5mmeBBuYsX08LYbUz/view?usp=sharing)
 
-<h3 align="left">Linkedin:</h3>
-<p align="left">
-<span style="color: blue;"><a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616399784~hmac=832dcfab417886ddb2b25db5bdadc78a" alt="Linkedin logo" height="30" width="40" /></a></span>
-</p>
+<h3 align="left">Linkedin: <a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616399784~hmac=832dcfab417886ddb2b25db5bdadc78a" alt="Linkedin logo" height="30" width="40" /></a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- skills -->
