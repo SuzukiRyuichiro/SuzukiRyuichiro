@@ -3,7 +3,7 @@
 
 - 🚌 A graduate of Le Wagon Tokyo
 
-- Hi, I am currently working on [Beerpedia](https://github.com/SuzukiRyuichiro/chat-redux)
+- Hi, I am currently working on [React Redux Chat](https://github.com/SuzukiRyuichiro/chat-redux)
 
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
