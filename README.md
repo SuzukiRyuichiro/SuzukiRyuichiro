@@ -3,7 +3,7 @@
 
 - 🚌 A graduate of Le Wagon Tokyo
 
-- Hi, I am currently working on [React Redux Chat](https://github.com/SuzukiRyuichiro/chat-redux)
+- Hi, I am currently working on [React Redux Chat](https://SuzukiRyuichiro.github.io/chat)
 
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
@@ -11,9 +11,9 @@
 
 - 💻 I'm also interested in hardware level computer science and currently studying the course called "NAND to Tetris"
 
-- 📫 Please contact me at **dragon.aka.scooter@gmail.com**
+- 📫 Please contact me at **me@ryuichirosuzuki.com**
 
-- 📄 Here's my CV [🔗](https://drive.google.com/file/d/1SEA3QYDMAWH8Cfx5mmeBBuYsX08LYbUz/view?usp=sharing)
+- 📄 Here's my CV [🔗](https://drive.google.com/file/d/1GBARUHt_TqYKVtutZBUuACtUby6KJopG/view?usp=sharing)
 
 <h3 align="left">Linkedin: <h3><a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"></a>
 
