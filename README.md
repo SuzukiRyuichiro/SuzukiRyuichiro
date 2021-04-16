@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Scooter (Ryuichiro Suzuki)</h1>
 <h3 align="center">A full stack web developer and a Formula 1 fan 🏎</h3>
 
-- 🚌 A graduate of Le Wagon Tokyo
+- 🚌 A graduate of Le Wagon Tokyo, and currently a TA
 
 - Hi, I am currently working on [React Redux Chat](https://SuzukiRyuichiro.github.io/chat)
 
