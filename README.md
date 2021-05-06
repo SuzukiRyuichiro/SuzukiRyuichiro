@@ -7,7 +7,7 @@
 
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
-- 🌱 I’m currently learning **React/Swift/Further into Rails**.
+- 🌱 I’m currently learning **React/Swift/Data Visualization adn Data Science/Further into Rails**.
 
 - 💻 I'm also interested in hardware level computer science and currently studying the course called "NAND to Tetris"
 
