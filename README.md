@@ -3,7 +3,7 @@
 
 - 🚌 A graduate of Le Wagon Tokyo, and currently a TA
 
-- 💪 I am currently working on [React Redux Chat](https://SuzukiRyuichiro.github.io/chat)
+- 💪 I am currently working on [Twitter Habit Enforcer](https://twitter-habit-enforcer.web.app/)
 
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
