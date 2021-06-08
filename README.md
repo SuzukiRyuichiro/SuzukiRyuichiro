@@ -1,13 +1,17 @@
+<head>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
+</head>
+
 <h1 align="center">Hi 👋 I'm Scooter (Ryuichiro Suzuki)</h1>
 <h3 align="center">A full stack web developer and a Formula 1 fan 🏎</h3>
 
 - 🚌 A graduate of Le Wagon Tokyo
 
-- Hi, I am currently working on [Beerpedia](https://github.com/SuzukiRyuichiro/Beerpedia)
+- 💪 I am currently working on [Twiitter Habit Enforcer](https://github.com/SuzukiRyuichiro/twitter-habit-enforcer)
 
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
-- 🌱 I’m currently learning **React/Swift/Further into Rails**.
+- 🌱 I’m currently learning **React/Vue/Swift/Data Science and ML/Rails**.
 
 - 💻 I'm also interested in hardware level computer science and currently studying the course called "NAND to Tetris"
 
@@ -15,11 +19,11 @@
 
 - 📄 Here's my CV [🔗](https://drive.google.com/file/d/1SEA3QYDMAWH8Cfx5mmeBBuYsX08LYbUz/view?usp=sharing)
 
-<h3 align="left">Socials:
-  <a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616399784~hmac=832dcfab417886ddb2b25db5bdadc78a" alt="Linkedin logo" height="30" width="40" /></a>
-  <a href="https://www.wantedly.com/id/SuzukiRyuichiro" target="blank"><img align="center" src="/wantedly_mark.png" alt="wantedly_mark.png" height="30" width="40" /></a>
-</h3>
+<h3 align="left">Socials:</h3>
+  <a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin logo" height="40" width="40" /></a>
+  <a href="https://www.wantedly.com/id/SuzukiRyuichiro" target="blank"><img align="center" src="wantedly_mark.png" alt="wantedly_mark.png" height="40" width="40" /></a>
 
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
 <h3 align="left">Languages and Tools:</h3>
 <!-- skills -->
 <p align="left">
