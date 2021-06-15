@@ -43,6 +43,5 @@
 </p>
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suzukiryuichiro" alt="suzukiryuichiro" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suzukiryuichiro&show_icons=true&locale=en&layout=compact" alt="suzukiryuichiro" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzukiryuichiro&" alt="suzukiryuichiro" /></p>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzukiryuichiro&show_icons=true&locale=en&layout=compact" alt="suzukiryuichiro" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzukiryuichiro&" alt="suzukiryuichiro" /></span>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suzukiryuichiro&show_icons=true&locale=en" alt="suzukiryuichiro" /></p>
