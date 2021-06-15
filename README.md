@@ -26,7 +26,8 @@
   </div>
 
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
+<h3 align="center">Languages and Tools:</h3>
 <!-- skills -->
 <p align="left">
   <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
@@ -43,6 +44,7 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
+</div>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suzukiryuichiro" alt="suzukiryuichiro" /></a> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzukiryuichiro&show_icons=true&locale=en&layout=compact" alt="suzukiryuichiro" /></p><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzukiryuichiro&" alt="suzukiryuichiro" /></p>
