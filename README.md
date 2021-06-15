@@ -15,7 +15,7 @@
 
 - 💻 I'm also interested in hardware level computer science and currently studying the course called "NAND to Tetris"
 
-- 📫 Please contact me at **dragon.aka.scooter@gmail.com**
+- 📫 Please contact me at **me@ryuichirosuzuki.com**
 
 - 📄 Here's my CV [🔗](https://drive.google.com/file/d/1SEA3QYDMAWH8Cfx5mmeBBuYsX08LYbUz/view?usp=sharing)
 
