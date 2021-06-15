@@ -42,6 +42,6 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suzukiryuichiro" alt="suzukiryuichiro" /></a> </p>
-<span align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzukiryuichiro&show_icons=true&locale=en&layout=compact" alt="suzukiryuichiro" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzukiryuichiro&" alt="suzukiryuichiro" /></span>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suzukiryuichiro" alt="suzukiryuichiro" /></a> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=suzukiryuichiro&show_icons=true&locale=en&layout=compact" alt="suzukiryuichiro" /></p><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzukiryuichiro&" alt="suzukiryuichiro" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suzukiryuichiro&show_icons=true&locale=en" alt="suzukiryuichiro" /></p>
