@@ -7,7 +7,7 @@
 
 - 🚌 A graduate of Le Wagon Tokyo
 
-- 💪 I am currently working on [Twitter Habit Enforcer](https://github.com/SuzukiRyuichiro/twitter-habit-enforcer)
+- 💪 I am currently working and interning at two different comapnies doing variety of engineering related things.
 
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
