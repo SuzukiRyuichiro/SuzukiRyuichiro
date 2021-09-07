@@ -17,8 +17,6 @@
 
 - 📫 Please contact me at **me@ryuichirosuzuki.com**
 
-- 📄 Here's my CV [🔗](https://drive.google.com/file/d/1zE9PWYMexKKgGPdeNEHn2OWxlIycJlcT/view?usp=sharing)
-
 <h3 align="center">Socials:</h3>
 <div align="center">
   <a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin logo" height="40" width="40" /></a>
