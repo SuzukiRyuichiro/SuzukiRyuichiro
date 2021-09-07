@@ -11,8 +11,6 @@
 
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
-- 💻 I'm also interested in hardware level computer science and currently studying the course called "NAND to Tetris"
-
 - 📫 Please contact me at **me@ryuichirosuzuki.com**
 
 <h3 align="center">Socials:</h3>
