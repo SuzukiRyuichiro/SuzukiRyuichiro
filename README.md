@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 I'm Scooter (Ryuichiro Suzuki)</h1>
 <h3 align="center">A full stack web developer and a Formula 1 fan 🏎</h3>
 
-- 🚌 A graduate of Le Wagon Tokyo
+- 🚌 An alumni of Le Wagon Tokyo and a teacher there now
 
 - 💪 I am currently working and interning at two different comapnies doing variety of engineering related things.
 
