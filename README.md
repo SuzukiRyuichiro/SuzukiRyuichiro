@@ -15,7 +15,9 @@
 
 <h3 align="center">Socials:</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin logo" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/ryuichiro-suzuki-scooter" target="blank">
+    Linked IN
+  </a>
   <a href="https://www.wantedly.com/id/SuzukiRyuichiro" target="blank"><img align="center" src="wantedly_mark.png" alt="wantedly_mark.png" height="40" width="40" /></a>
   </div>
 
