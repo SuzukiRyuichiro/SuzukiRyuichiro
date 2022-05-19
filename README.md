@@ -7,7 +7,7 @@
 
 - 🚌 An alumni of Le Wagon Tokyo and a teacher there now
 
-- 💪 I am currently working and interning at two different comapnies doing variety of engineering related things.
+- 💪 Worked in two different companies as a full stack developer
 
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
 
