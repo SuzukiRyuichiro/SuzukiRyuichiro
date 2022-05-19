@@ -3,7 +3,7 @@
 </head>
 
 <h1 align="center">Hi 👋 I'm Scooter (Ryuichiro Suzuki)</h1>
-<h3 align="center">A full stack web developer and a Formula 1 fan 🏎</h3>
+<h3 align="center">A full stack web developer and a huge Formula 1 fan 🏎</h3>
 
 - 🚌 An alumni of Le Wagon Tokyo and a teacher there now
 
