@@ -16,7 +16,6 @@
 <h3 align="center">Socials:</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/ryuichiro-suzuki-scooter/" target="blank"><img align="center" src="linkedin.svg" alt="linked in" height="40" width="40" /></a>
-  <a href="https://www.wantedly.com/id/SuzukiRyuichiro" target="blank"><img align="center" src="wantedly_mark.png" alt="wantedly_mark.png" height="40" width="40" /></a>
   </div>
 
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
