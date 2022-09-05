@@ -3,14 +3,11 @@
 </head>
 
 <h1 align="center">Hi 👋 I'm Scooter (Ryuichiro Suzuki)</h1>
-<h3 align="center">A full stack web developer and a huge Formula 1 fan 🏎</h3>
+<h3 align="center">Full stack web developer and a huge Formula 1 fan 🏎</h3>
 
+- 💪 Worked in three different companies as a full stack developer
 - 🚌 An alumni of Le Wagon Tokyo and a teacher there now
-
-- 💪 Worked in two different companies as a full stack developer
-
 - 👨‍💻 Here's my portfolio [https://www.ryuichirosuzuki.com](https://www.ryuichirosuzuki.com)
-
 - 📫 Please contact me at **me@ryuichirosuzuki.com**
 
 <h3 align="center">Socials:</h3>
