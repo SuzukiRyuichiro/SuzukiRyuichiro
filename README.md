@@ -7,6 +7,5 @@ A full stack developer from Japan, currently residing in Barcelona 🇪🇸
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzukiRyuichiro&hide=HTML,SCSS,Less,CSS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SuzukiRyuichiro?cardType=level-alternate&theme=dracula)](https://git.io/awesome-stats-card)
 
 [![](https://visitcount.itsvg.in/api?id=SuzukiRyuichiro&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
