@@ -5,8 +5,6 @@ A full stack developer from Japan, currently residing in Barcelona 🇪🇸
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SuzukiRyuichiro&theme=vue-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzukiRyuichiro&hide=HTML,SCSS,Less,CSS&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22ndwarmwin74uwyftti4zvla)
 
 [![](https://visitcount.itsvg.in/api?id=SuzukiRyuichiro&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
